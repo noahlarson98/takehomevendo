@@ -1,0 +1,10 @@
+This is a Python script that responds to HTTP requests, mimicking behavior of a vending machine.
+
+Before we begin, the depedencies will need to be downloaded. Open a command line terminal within the directory and type "pip install -r requirements".
+
+flask is used in the main program, while requests is used for a script that can test each of the calls implemented.
+
+To run the main script, open a command line terminal within the directory of these files and type "python main.py"
+While this is open, the script will respond to HTTP requests at 127.0.0.1:5000. Requests may manually be sent using whatever you see fit, I personally like the application Postman.
+
+Running the tester.py script in another window will provide a numbered menu of the implemented requests, allowing you to easily try each one.
