@@ -1,6 +1,6 @@
 This is a Python script that responds to HTTP requests, mimicking behavior of a vending machine.
 
-Before we begin, the depedencies will need to be downloaded. Open a command line terminal within the directory and type "pip install -r requirements".
+Before we begin, the depedencies will need to be downloaded. Open a command line terminal within the directory and type "pip install -r requirements.txt".
 
 flask is used in the main program, while requests is used for a script that can test each of the calls implemented.
 
